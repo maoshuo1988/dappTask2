@@ -1,0 +1,10 @@
+{
+  "address": "0x759F4d7D6Bbc4b11b418bcb59d23ba603f5e5C89",
+  "abi": [
+    "function count() view returns (uint256)",
+    "function decrement()",
+    "function increment()"
+  ],
+  "args": [],
+  "numDeployments": 1
+}
